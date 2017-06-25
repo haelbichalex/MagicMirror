@@ -148,8 +148,6 @@ var config = {
                         longPress: {
                             notification: "CURRENT_PROFILE",
                             payload: 'party',
-                            title: 'TITEL',
-                            message: 'message'
                         },
                         shortPress: {
                             notification: "CURRENT_PROFILE",
