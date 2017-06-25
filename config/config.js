@@ -138,7 +138,7 @@ var config = {
             classes: 'party'
         },
 
-        /*{
+        {
             module: 'MMM-Buttons',
             config: {
                 buttons: [
@@ -158,12 +158,6 @@ var config = {
                     },
                 ],
                 minLongPressTime: 2000
-            }
-        },*/
-        {
-            module: 'MMM-Button',
-            config: {
-                buttonPIN: 4
             }
         },
 	]
