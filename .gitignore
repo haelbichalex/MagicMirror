@@ -62,8 +62,6 @@ Temporary Items
 !/modules/default
 !/modules/default/**
 !/modules/README.md**
-!/modules/MMM-Buttons/MMM-Buttons.js
-!/modules/MMM-Buttons/node_helper.js
 
 # Ignore changes to the custom css files.
 /css/custom.css
