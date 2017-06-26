@@ -168,7 +168,7 @@ var config = {
                 lng: 10.878989,
                 types: ["diesel", "e5"],
                 sortBy: "e5",
-                shortenText: true,
+                shortenText: '10',
                 showAddress: false
             },
             classes: 'default'
