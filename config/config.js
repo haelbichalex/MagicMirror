@@ -166,7 +166,8 @@ var config = {
                 api_key: "b93afa03-3ecf-80a8-1791-0e048d4eadad",
                 lat: 48.380527,
                 lng: 10.878989,
-                types: ["e5"],
+                types: ["diesel", "e5"],
+                showAddress: false
             },
             classes: 'default'
         },
