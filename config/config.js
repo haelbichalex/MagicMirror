@@ -167,6 +167,8 @@ var config = {
                 lat: 48.380527,
                 lng: 10.878989,
                 types: ["diesel", "e5"],
+                sortBy: "e5",
+                shortenText: true,
                 showAddress: false
             },
             classes: 'default'
