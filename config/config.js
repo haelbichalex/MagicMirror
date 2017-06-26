@@ -168,9 +168,8 @@ var config = {
                 lng: 10.878989,
                 types: ["diesel", "e5"],
                 sortBy: "e5",
-                shortenText: '10',
+                shortenText: '15',
                 showAddress: false,
-                map_api_key: 'AIzaSyD28f5NZzCv7AHHIE7WtEUmW6rdSDXJzxg'
             },
             classes: 'default'
         },
