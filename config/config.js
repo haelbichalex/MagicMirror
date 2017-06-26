@@ -46,7 +46,7 @@ var config = {
 				locationID: "",  //ID from http://www.openweathermap.org/help/city_list.txt
 				appid: "88de1424b0ddf97887e0b63b68947125"
 			},
-            classes: 'everyone default'
+            classes: 'party'
 		},
 		{
 			module: "weatherforecast",
@@ -57,7 +57,7 @@ var config = {
 				locationID: "",  //ID from http://www.openweathermap.org/help/city_list.txt
 				appid: "88de1424b0ddf97887e0b63b68947125"
 			},
-            classes: 'everyone default'
+            classes: 'party'
 		},
 		{
 			module: "newsfeed",
@@ -167,7 +167,8 @@ var config = {
                 lat: 48.380527,
                 lng: 10.878989,
                 types: ["e5"],
-            }
+            },
+            classes: 'default'
         },
 	]
 
